@@ -1,4 +1,4 @@
-[![MasterHead](https://scitechdaily.com/images/Quantum-Computer-Code-Concept.gif)](https://rishavchanda.io)
+![MasterHead](https://img.freepik.com/premium-photo/abstract-binary-data-code-digital-background-colour-digital-wallpaper-pink-blue_451486-20.jpg?w=2000)
 
 <h1 align="center">Hi 👋, I'm Júlia Garcia Torné</h1>
 <h3 align="center">Artificial Intelligence degree student. Passionate developer.</h3>
