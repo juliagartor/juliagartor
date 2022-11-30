@@ -1,4 +1,5 @@
-![MasterHead](https://img.freepik.com/premium-photo/abstract-binary-data-code-digital-background-colour-digital-wallpaper-pink-blue_451486-20.jpg?w=2000)
+![MasterHead](![image](https://user-images.githubusercontent.com/104842763/204905958-a17875d3-2a94-4a1d-998e-a23f8d443914.png)
+)
 
 <h1 align="center">Hi 👋, I'm Júlia Garcia Torné</h1>
 <h3 align="center">Artificial Intelligence degree student. Passionate developer.</h3>
