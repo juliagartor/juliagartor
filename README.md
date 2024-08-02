@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Júlia Garcia Torné</h1>
 <h3 align="center">Artificial Intelligence degree student. Passionate developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/fR5YFldMrWIAAAAi/inviicta-viic.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliagartor&label=Profile%20views&color=0e75b6&style=flat" alt="juliagartor" /> </p>
 
